@@ -3,6 +3,7 @@
 
 # Text Sources
 **Credits and Licensing**
+
 **Hebrew Old Testament (Tanak) data:** this project uses the **Westminster Leningrad Codex (WLC)** via the Open Scriptures MorphGB project.
 
 * **Source:** Open [Scripture MorphHB](https://github.com/openscriptures/morphhb)
