@@ -6,7 +6,7 @@
 
 **Hebrew Old Testament (Tanak) data:** this project uses the **Westminster Leningrad Codex (WLC)** via the Open Scriptures MorphGB project.
 
-* **Source:** Open [Scripture MorphHB](https://github.com/openscriptures/morphhb)
+* **Source:** [Open Scripture MorphHB](https://github.com/openscriptures/morphhb)
 * **License:** Public Domain / Creative Commons Attribution-ShareAlike
 
 **Greek New Testament Data:** This project uses the **SBL Green New Testament.**
