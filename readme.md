@@ -2,11 +2,15 @@
 
 
 # Text Sources
-## Old Testament Manuscript (Tanak)
-The Old Testament source for this project is the Westminster Leningrag Codex (WLC), accessible via [Open Scriptures Hebrew Bible (OSHB)](https://github.com/openscriptures/morphhb). This project reads XML files in [OSIS format](https://crosswire.org/osis/).
+**Credits and Licensing**
+**Hebrew Old Testament (Tanak) data:** this project uses the **Westminster Leningrad Codex (WLC)** via the Open Scriptures MorphGB project.
 
-## New Testament Manuscript
-The New Testament source for this project is the SBL Greek New Testament (SBGNT), accessbile via [Faithlife](https://github.com/Faithlife/SBLGNT). This project reads XML fiels in [OSIS format](https://crosswire.org/osis/).
+* **Source:** Open [Scripture MorphHB](https://github.com/openscriptures/morphhb)
+* **License:** Public Domain / Creative Commons Attribution-ShareAlike
 
-## Modern English Translations
-To be determined.
+**Greek New Testament Data:** This project uses the **SBL Green New Testament.**
+
+* **Source:** [Faithlife/SBLGNT GitHub repository](https://github.com/Faithlife/SBLGNT)
+* **Editors:** Michael W. Holmes
+* **Copyright:** Copyright &copy; 2010 Society of Biblical Literature and Faithlife Corporation
+* **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
